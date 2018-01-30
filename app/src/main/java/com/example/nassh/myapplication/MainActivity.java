@@ -10,6 +10,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
+
     EditText e;
     RadioButton r1, r2;
     Button b;
